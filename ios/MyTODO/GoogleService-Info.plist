@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDbs-IS9pBu2JzLYfQHrjZFYXIltU-tl98</string>
+	<key>GCM_SENDER_ID</key>
+	<string>403527180790</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.app.ToDo</string>
+	<key>PROJECT_ID</key>
+	<string>scott-8ac91</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scott-8ac91.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:403527180790:ios:11a5c367c6e140a1be67d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://scott-8ac91-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
